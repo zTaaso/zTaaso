@@ -1,11 +1,11 @@
 # Hey there <img src="https://github.com/zTaaso/zTaaso/blob/main/assets/Hi.gif" width="30px">
 ### About me:
- I am Thiago Afonso, but you can call me Thiago!
+ I am Thiago Afonso, a development student from Belo Horizonte, Brazil!
 
-- :space_invader: I'm 18 years old
+- :space_invader: I'm 18 years old;
 - :books: I’m currently studying JavaScript/TypeScript and its wonders!
 - 👯 I'd like to collaborate on any JS/TS project!
-- 💬 Ask me about ReactJS, NodeJS, React Native
+- 💬 Ask me about ReactJS, NodeJS, React Native; (or my favorite song 🎶)
 
 ### Connect with me:
 
