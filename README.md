@@ -2,7 +2,7 @@
 ### About me:
  I am Thiago Afonso, a development student from Belo Horizonte, Brazil!
 
-- :books: I’m currently studying JavaScript/TypeScript and its wonders!
+- :books: Passionate on JavaScript/TypeScript and its wonders!
 - 👯 I'd like to collaborate on any JS/TS project!
 - 💬 Ask me about ReactJS, NodeJS, React Native; (or my favorite song 🎶)
 
