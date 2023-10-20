@@ -1,6 +1,7 @@
-# Hey there <img src="https://github.com/zTaaso/zTaaso/blob/main/assets/Hi.gif" width="30px">
+<h1>Hey there </h1> <img src="https://github.com/zTaaso/zTaaso/blob/main/assets/Hi.gif" width="50px">
+
 ### About me:
- I am Thiago Afonso, an experienced Software Developer Brazil!
+ I am Thiago Afonso, an experienced Software Developer from Brazil!
 
 - :books: Passionate on JavaScript/TypeScript and its wonders!
 - 💬 I can speak 🇫🇷🇵🇹🇬🇧 and currently learning 🇩🇪!
