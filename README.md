@@ -1,17 +1,15 @@
 # Hey there <img src="https://github.com/zTaaso/zTaaso/blob/main/assets/Hi.gif" width="30px">
 ### About me:
- I am Thiago Afonso, a development student from Belo Horizonte, Brazil!
+ I am Thiago Afonso, an experienced Software Developer Brazil!
 
 - :books: Passionate on JavaScript/TypeScript and its wonders!
-- 👯 I'd like to collaborate on any JS/TS project!
-- 💬 Ask me about ReactJS, NodeJS, React Native; (or my favorite song 🎶)
+- 💬 I can speak 🇫🇷🇵🇹🇬🇧 and currently learning 🇩🇪!
+- 🧠 Expert about ReactJS, React Native and NodeJS! 
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ztaaso" target="_blank"><img src="https://github.com/zTaaso/zTaaso/blob/main/assets/linkedin.png" alt="LinkedIn" width="30"></a>
 <a href="mailto:tafonso.business@gmail.com" target="_blank"><img src="https://github.com/zTaaso/zTaaso/blob/main/assets/email.png" alt="E-mail" width="30"></a>
-<a href="https://www.instagram.com/ztaasoz" target="_blank"><img src="https://github.com/zTaaso/zTaaso/blob/main/assets/instagram.png" alt="Instagram" width="30"></a>
-
 <br/>
 
 ### Languages and tools
